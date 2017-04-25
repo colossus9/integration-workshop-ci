@@ -1,0 +1,15 @@
+{
+  "name": "integration-workshop-ci",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}

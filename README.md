@@ -1,6 +1,6 @@
 # TextDecorator
 
-A simple utility for manipulating text. Changes
+A simple utility for manipulating text. Here is a change
 
 ## Installation
 

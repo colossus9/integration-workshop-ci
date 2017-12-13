@@ -21,7 +21,7 @@ class TextDecoratorTest < Minitest::Test
     assert_equal "H|e|l|l|o| |w|o|r|l|d", @text_decorator.pipe
   end
 
-  #def test_title_case
-  #  assert_equal "Hello World", @text_decorator.title_case
-  #end
+  def test_title_case
+    assert_equal "Hello World", @text_decorator.title_case
+  end
 end
